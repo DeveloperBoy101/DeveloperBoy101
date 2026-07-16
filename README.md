@@ -103,14 +103,6 @@ offDuty: Cricket lover & open source contributor
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperBoy101&theme=tokyonight&column=4&row=2&margin-w=15&no-bg=false&no-frame=true" alt="Muhammad Ahmad Raza's GitHub Trophies" />
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
