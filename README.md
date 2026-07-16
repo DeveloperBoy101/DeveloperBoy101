@@ -1,22 +1,42 @@
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B192C,50:1E3A8A,100:00C2FF&text=Muhammad%20Ahmad%20Raza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20Native%20Developer%20%7C%20Next.js%20Developer&descAlignY=55&descSize=18"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+%7C+Next.js+Developer;Building+FastFly+Courier+Management+System;Currently+Learning+Agentic+AI" alt="Typing SVG" />
+</a>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=DeveloperBoy101&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 <a href="https://github.com/DeveloperBoy101">
-<img src="https://img.shields.io/github/followers/DeveloperBoy101?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/followers/DeveloperBoy101?label=Follow&style=for-the-badge&color=00C2FF" />
 </a>
+
 </div>
 
+<br>
+
 ## 💫 About Me
+
 Hi, main **Muhammad Ahmad Raza** hoon — ek Full Stack Developer jo **React Native** aur **Next.js** mein specialize karta hai. Mujhe scalable web aur mobile applications banana pasand hai, aur is waqt main FastFly ke *Courier Management System* par kaam kar raha hoon.
 
-* 🚀 **Building** scalable web & mobile applications
-* 📱 **Passionate** about React Native & Expo development
-* 🌐 **Full Stack** expertise in Next.js, Node.js & MongoDB
-* 🌱 **Currently learning** Agentic AI
-* ⚡ **Exploring** scalable system architecture
-* 💬 **Ask me about** React, Next.js, Node.js, Express & MongoDB
-* 🏏 **Off duty:** Cricket lover & open source contributor
+```yaml
+name: Muhammad Ahmad Raza
+role: Full Stack Developer
+focus: [React Native, Next.js, Node.js, MongoDB]
+currentlyLearning: Agentic AI
+currentlyBuilding: FastFly Courier Management System
+offDuty: Cricket lover & open source contributor
+```
+
+- 🚀 **Building** scalable web & mobile applications
+- 📱 **Passionate** about React Native & Expo development
+- 🌐 **Full Stack** expertise in Next.js, Node.js & MongoDB
+- 🌱 **Currently learning** Agentic AI
+- ⚡ **Exploring** scalable system architecture
+- 💬 **Ask me about** React, Next.js, Node.js, Express & MongoDB
+- 🏏 **Off duty:** Cricket lover & open source contributor
 
 ---
 
@@ -25,26 +45,23 @@ Hi, main **Muhammad Ahmad Raza** hoon — ek Full Stack Developer jo **React Nat
 <div align="center">
 
 ### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,python" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,python&theme=dark" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" />
 
 ### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=react,expo" />
+<img src="https://skillicons.dev/icons?i=react,expo&theme=dark" />
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark" />
 
 ### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,aws" />
-
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman&theme=dark" />
 
 <br>
 
-<!-- Badges Section -->
+<!-- Animated tool badges -->
 <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
@@ -81,11 +98,13 @@ Hi, main **Muhammad Ahmad Raza** hoon — ek Full Stack Developer jo **React Nat
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DeveloperBoy101&theme=tokyonight&column=4&row=2&margin-w=15&no-bg=false&no-frame=true" alt="Muhammad Ahmad Raza's GitHub Trophies" />
 </div>
@@ -106,8 +125,16 @@ Hi, main **Muhammad Ahmad Raza** hoon — ek Full Stack Developer jo **React Nat
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperBoy101&theme=tokyo-night&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperBoy101&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammad%20Ahmad%20Raza's%20Contribution%20Graph" />
 </div>
+
+### 🐍 Animated Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DeveloperBoy101/DeveloperBoy101/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+</div>
+
+> ⚙️ **Setup note:** yeh snake animation live GitHub Action se generate hoti hai — sirf image daalne se nahi chalegi. Apne profile repo (`DeveloperBoy101/DeveloperBoy101`) mein `.github/workflows/snake.yml` add karo (Platane/snk action) taake yeh SVG har din auto-generate ho aur `output` branch pe push ho. Chaho to main woh workflow file bhi bana kar de sakta hoon.
 
 ---
 
@@ -117,9 +144,12 @@ Hi, main **Muhammad Ahmad Raza** hoon — ek Full Stack Developer jo **React Nat
 
 ### 🚚 FastFly Courier System
 *Admin Dashboard | Shipment Tracking | Rider Management | Customer Management*
-* **Frontend:** Next.js + TypeScript (Responsive UI)
-* **Mobile:** React Native + Expo (Rider App with Expo Router)
-* **Integration:** Secure API Integration & Authentication
+
+| Layer | Stack |
+|---|---|
+| **Frontend** | Next.js + TypeScript (Responsive UI) |
+| **Mobile** | React Native + Expo (Rider App with Expo Router) |
+| **Integration** | Secure API Integration & Authentication |
 
 </div>
 
@@ -128,15 +158,17 @@ Hi, main **Muhammad Ahmad Raza** hoon — ek Full Stack Developer jo **React Nat
 ## 🌐 Connect With Me
 
 <div align="center">
+
 <a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/DeveloperBoy101">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </div>
 
 ---
@@ -144,9 +176,11 @@ Hi, main **Muhammad Ahmad Raza** hoon — ek Full Stack Developer jo **React Nat
 <div align="center">
 
 ### ⚡ Quote
+
 > "First, solve the problem. Then, write the code."
 
 **Thanks for visiting my profile ❤️**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B192C,50:1E3A8A,100:00C2FF"/>
+
 </div>
