@@ -44,7 +44,7 @@ const ahmadRaza = {
 
 </td>
 <td width="40%" align="center" valign="middle">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperBoy101&repo=OptiBuy&theme=dark&hide_border=true&bg_color=0B192C&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00" width="100%" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
 </td>
 </tr>
 </table>
@@ -95,36 +95,22 @@ Sharpening API design & database architecture
 <div align="center">
 
 **Frontend**
-<br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite&theme=dark" />
-
-<br><br>
 
 **Mobile Development**
 <br>
 <img src="https://skillicons.dev/icons?i=react,expo&theme=dark" />
 <img src="https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=FF6B00"/>
 
-<br><br>
-
 **Backend & Databases**
-<br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark" />
 
-<br><br>
-
 **Programming Languages**
-<br>
 <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
 
-<br><br>
-
 **Tools & Deployment**
-<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
-
-<br><br>
-
+<br>
 <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -132,10 +118,7 @@ Sharpening API design & database architecture
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
 
-<br><br>
-
 **Libraries & Frameworks**
-<br>
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
 <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
