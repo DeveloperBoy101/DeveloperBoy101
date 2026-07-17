@@ -95,22 +95,34 @@ Sharpening API design & database architecture
 <div align="center">
 
 **Frontend**
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite&theme=dark" />
+
+<br><br>
 
 **Mobile Development**
 <br>
 <img src="https://skillicons.dev/icons?i=react,expo&theme=dark" />
 <img src="https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=FF6B00"/>
 
+<br><br>
+
 **Backend & Databases**
+<br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark" />
 
+<br><br>
+
 **Programming Languages**
+<br>
 <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
 
+<br><br>
+
 **Tools & Deployment**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
 <br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
+<br><br>
 <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -118,15 +130,17 @@ Sharpening API design & database architecture
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
 
+<br><br>
+
 **Libraries & Frameworks**
+<br>
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
 <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-FF6B00?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
 
 </div>
@@ -143,14 +157,17 @@ Sharpening API design & database architecture
 *Enterprise-grade logistics & delivery platform*
 
 **Core Features:**
-- 📦 Shipment Management
-- 🏍️ Rider Management
-- 👥 Customer Management
-- 💰 COD (Cash on Delivery) Management
-- 📊 Analytics Dashboard
-- 📍 Real-time Tracking System
+- 📦 Complete Shipment Lifecycle Management
+- 🏍️ Rider Assignment & Tracking
+- 🏢 Multi-Branch Management
+- 💰 COD (Cash on Delivery) Settlement
+- 📊 Real-time Analytics Dashboard
+- 📍 Live Shipment Tracking
+- 🔐 Role-based Access Control (Admin/Branch/Rider)
 
-**Stack:** Next.js · TypeScript · Node.js · Express · MongoDB
+**Stack:** Next.js · TypeScript · Node.js · MongoDB · JWT
+
+<img src="https://img.shields.io/badge/Live-fastfly.pk-FF6B00?style=for-the-badge&labelColor=0B192C"/>
 
 </td>
 <td width="50%" valign="top">
@@ -158,25 +175,26 @@ Sharpening API design & database architecture
 ### 📱 FastFly Rider App
 *Cross-platform mobile app for delivery riders*
 
-**Built With:**
-- React Native
-- Expo Router
-- TypeScript
-- Secure API Integration & Authentication
+**Core Features:**
+- 🔐 Secure JWT Authentication
+- 📦 Assigned Parcels Management
+- 🗺️ Route Planning & Navigation
+- 📸 Delivery Proof (Photo + OTP + Signature)
+- 💵 COD Collection & Cash Deposit
+- 📊 Daily Closing Report
+- 🔄 Real-time Status Sync with Admin
 
-**Highlights:** Real-time order updates, navigation, and delivery status sync with the admin dashboard.
+**Stack:** React Native · TypeScript · Zustand · Axios
+
+<img src="https://img.shields.io/badge/Status-In_Development-FF6B00?style=for-the-badge&labelColor=0B192C"/>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Status-In_Active_Development-FF6B00?style=for-the-badge&labelColor=0B192C"/>
-</div>
-
 ---
 
-## 🏅 Achievements
+## 🏅 Achievements & Experience
 
 <div align="center">
 <table border="0" width="100%">
@@ -208,7 +226,7 @@ Sharpening API design & database architecture
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=DeveloperBoy101&theme=dark&hide_border=true&background=0B192C&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" />
+<img width="70%" src="https://streak-stats.demolab.com?user=DeveloperBoy101&theme=dark&hide_border=true&background=0B192C&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=ffffff&stroke=FF6B00" />
 
 </div>
 
@@ -217,7 +235,7 @@ Sharpening API design & database architecture
 ## 📈 Contribution Graph
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperBoy101&theme=react-dark&hide_border=true&bg_color=0B192C&color=FF6B00&line=FF6B00&point=ffffff" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperBoy101&theme=react-dark&hide_border=true&bg_color=0B192C&color=FF6B00&line=FF6B00&point=ffffff&area=true&area_color=FF6B00" />
 </div>
 
 ---
@@ -225,12 +243,8 @@ Sharpening API design & database architecture
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/DeveloperBoy101/DeveloperBoy101/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
-
+<img src="https://raw.githubusercontent.com/DeveloperBoy101/DeveloperBoy101/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
-
-> ⚙️ **Setup required:** yeh snake tabhi dikhega jab tumhare `DeveloperBoy101/DeveloperBoy101` repo mein `.github/workflows/snake.yml` add ho (neeche diya gaya hai) aur GitHub Actions ek baar run ho jaye. Action khud `output` branch banake SVG generate karegi.
 
 ---
 
@@ -238,7 +252,7 @@ Sharpening API design & database architecture
 
 <div align="center">
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:ahmadrazadeveloper101@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/your-linkedin">
@@ -246,6 +260,9 @@ Sharpening API design & database architecture
 </a>
 <a href="https://github.com/DeveloperBoy101">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://fastfly.pk">
+  <img src="https://img.shields.io/badge/FastFly.pk-FF6B00?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
